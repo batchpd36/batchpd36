@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @batchpd36
-- 👀 I’m interested in ... learning how to write scripts using API
-- 🌱 I’m currently learning ... lots of new things in Folio regarding my old workflow
+- 👀 I’m interested in ... learning how to become more fluent with GitHub
+- 🌱 I’m currently learning how to use GitHub ... details of what means what
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
